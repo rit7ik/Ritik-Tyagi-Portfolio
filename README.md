@@ -1,2 +1,3 @@
 # Ritik-Tyagi-Portfolio
 This Is My Portfolio Repository...
+I am a Fresher MERN Full-Stack Developer currently transitioning from a background in science to software development. I am pursuing a MERN Full Stack Development course to build responsive and user-friendly web applications. I enjoy applying the logical thinking gained from my biotechnology studies to solve complex problems in code
